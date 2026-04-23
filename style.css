@@ -1,0 +1,58 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f5f7fb;
+}
+
+header {
+  background: #1e88e5;
+  color: white;
+  padding: 1rem 2rem;
+}
+
+header h1 {
+  margin: 0;
+}
+
+.dashboard {
+  display: flex;
+  min-height: calc(100vh - 70px);
+}
+
+.controls {
+  width: 260px;
+  padding: 1rem;
+  background: white;
+  border-right: 1px solid #ddd;
+}
+
+.controls label {
+  display: block;
+  margin-bottom: 0.7rem;
+  font-size: 0.9rem;
+}
+
+.controls select,
+.controls input[type="date"],
+.controls button {
+  width: 100%;
+  margin-top: 0.3rem;
+  padding: 0.4rem;
+  box-sizing: border-box;
+}
+
+.controls button {
+  cursor: pointer;
+  margin-top: 0.7rem;
+}
+
+.chart-container {
+  flex: 1;
+  padding: 1.5rem;
+}
+
+.chart-container canvas {
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.08);
+}

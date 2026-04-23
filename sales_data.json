@@ -1,0 +1,441 @@
+[
+  { "date": "2025-09-01", "category": "Electronics", "region": "North", "sales": 1600, "units": 34 },
+  { "date": "2025-09-01", "category": "Clothing", "region": "South", "sales": 780, "units": 42 },
+  { "date": "2025-09-01", "category": "Books", "region": "East", "sales": 410, "units": 20 },
+  { "date": "2025-09-01", "category": "Furniture", "region": "West", "sales": 1500, "units": 18 },
+
+  { "date": "2025-09-02", "category": "Electronics", "region": "North", "sales": 1650, "units": 35 },
+  { "date": "2025-09-02", "category": "Clothing", "region": "South", "sales": 760, "units": 40 },
+  { "date": "2025-09-02", "category": "Books", "region": "East", "sales": 430, "units": 21 },
+  { "date": "2025-09-02", "category": "Furniture", "region": "West", "sales": 1580, "units": 19 },
+
+  { "date": "2025-09-03", "category": "Electronics", "region": "North", "sales": 1700, "units": 36 },
+  { "date": "2025-09-03", "category": "Clothing", "region": "South", "sales": 820, "units": 44 },
+  { "date": "2025-09-03", "category": "Books", "region": "East", "sales": 420, "units": 23 },
+  { "date": "2025-09-03", "category": "Furniture", "region": "West", "sales": 1600, "units": 20 },
+
+  { "date": "2025-09-04", "category": "Electronics", "region": "North", "sales": 1750, "units": 37 },
+  { "date": "2025-09-04", "category": "Clothing", "region": "South", "sales": 840, "units": 45 },
+  { "date": "2025-09-04", "category": "Books", "region": "East", "sales": 440, "units": 22 },
+  { "date": "2025-09-04", "category": "Furniture", "region": "West", "sales": 1550, "units": 19 },
+
+  { "date": "2025-09-05", "category": "Electronics", "region": "North", "sales": 1800, "units": 38 },
+  { "date": "2025-09-05", "category": "Clothing", "region": "South", "sales": 860, "units": 48 },
+  { "date": "2025-09-05", "category": "Books", "region": "East", "sales": 450, "units": 24 },
+  { "date": "2025-09-05", "category": "Furniture", "region": "West", "sales": 1700, "units": 21 },
+
+  { "date": "2025-09-06", "category": "Electronics", "region": "North", "sales": 1680, "units": 34 },
+  { "date": "2025-09-06", "category": "Clothing", "region": "South", "sales": 780, "units": 41 },
+  { "date": "2025-09-06", "category": "Books", "region": "East", "sales": 390, "units": 22 },
+  { "date": "2025-09-06", "category": "Furniture", "region": "West", "sales": 1500, "units": 18 },
+
+  { "date": "2025-09-07", "category": "Electronics", "region": "North", "sales": 1720, "units": 36 },
+  { "date": "2025-09-07", "category": "Clothing", "region": "South", "sales": 800, "units": 43 },
+  { "date": "2025-09-07", "category": "Books", "region": "East", "sales": 430, "units": 21 },
+  { "date": "2025-09-07", "category": "Furniture", "region": "West", "sales": 1580, "units": 20 },
+
+  { "date": "2025-09-08", "category": "Electronics", "region": "North", "sales": 1780, "units": 39 },
+  { "date": "2025-09-08", "category": "Clothing", "region": "South", "sales": 820, "units": 44 },
+  { "date": "2025-09-08", "category": "Books", "region": "East", "sales": 445, "units": 23 },
+  { "date": "2025-09-08", "category": "Furniture", "region": "West", "sales": 1620, "units": 22 },
+
+  { "date": "2025-09-09", "category": "Electronics", "region": "North", "sales": 1820, "units": 38 },
+  { "date": "2025-09-09", "category": "Clothing", "region": "South", "sales": 850, "units": 46 },
+  { "date": "2025-09-09", "category": "Books", "region": "East", "sales": 455, "units": 24 },
+  { "date": "2025-09-09", "category": "Furniture", "region": "West", "sales": 1650, "units": 23 },
+
+  { "date": "2025-09-10", "category": "Electronics", "region": "North", "sales": 1850, "units": 40 },
+  { "date": "2025-09-10", "category": "Clothing", "region": "South", "sales": 890, "units": 47 },
+  { "date": "2025-09-10", "category": "Books", "region": "East", "sales": 480, "units": 26 },
+  { "date": "2025-09-10", "category": "Furniture", "region": "West", "sales": 1700, "units": 24 },
+
+  { "date": "2025-09-11", "category": "Electronics", "region": "North", "sales": 1750, "units": 39 },
+  { "date": "2025-09-11", "category": "Clothing", "region": "South", "sales": 820, "units": 45 },
+  { "date": "2025-09-11", "category": "Books", "region": "East", "sales": 460, "units": 25 },
+  { "date": "2025-09-11", "category": "Furniture", "region": "West", "sales": 1680, "units": 23 },
+
+  { "date": "2025-09-12", "category": "Electronics", "region": "North", "sales": 1780, "units": 40 },
+  { "date": "2025-09-12", "category": "Clothing", "region": "South", "sales": 850, "units": 47 },
+  { "date": "2025-09-12", "category": "Books", "region": "East", "sales": 470, "units": 26 },
+  { "date": "2025-09-12", "category": "Furniture", "region": "West", "sales": 1700, "units": 24 },
+
+  { "date": "2025-09-13", "category": "Electronics", "region": "North", "sales": 1820, "units": 42 },
+  { "date": "2025-09-13", "category": "Clothing", "region": "South", "sales": 880, "units": 49 },
+  { "date": "2025-09-13", "category": "Books", "region": "East", "sales": 455, "units": 24 },
+  { "date": "2025-09-13", "category": "Furniture", "region": "West", "sales": 1750, "units": 26 },
+
+  { "date": "2025-09-14", "category": "Electronics", "region": "North", "sales": 1850, "units": 41 },
+  { "date": "2025-09-14", "category": "Clothing", "region": "South", "sales": 900, "units": 50 },
+  { "date": "2025-09-14", "category": "Books", "region": "East", "sales": 480, "units": 27 },
+  { "date": "2025-09-14", "category": "Furniture", "region": "West", "sales": 1780, "units": 26 },
+
+  { "date": "2025-09-15", "category": "Electronics", "region": "North", "sales": 1880, "units": 43 },
+  { "date": "2025-09-15", "category": "Clothing", "region": "South", "sales": 910, "units": 52 },
+  { "date": "2025-09-15", "category": "Books", "region": "East", "sales": 490, "units": 28 },
+  { "date": "2025-09-15", "category": "Furniture", "region": "West", "sales": 1800, "units": 27 },
+
+  { "date": "2025-09-16", "category": "Electronics", "region": "North", "sales": 1900, "units": 44 },
+  { "date": "2025-09-16", "category": "Clothing", "region": "South", "sales": 940, "units": 53 },
+  { "date": "2025-09-16", "category": "Books", "region": "East", "sales": 460, "units": 25 },
+  { "date": "2025-09-16", "category": "Furniture", "region": "West", "sales": 1830, "units": 28 },
+
+  { "date": "2025-09-17", "category": "Electronics", "region": "North", "sales": 1850, "units": 41 },
+  { "date": "2025-09-17", "category": "Clothing", "region": "South", "sales": 880, "units": 48 },
+  { "date": "2025-09-17", "category": "Books", "region": "East", "sales": 455, "units": 26 },
+  { "date": "2025-09-17", "category": "Furniture", "region": "West", "sales": 1740, "units": 25 },
+
+  { "date": "2025-09-18", "category": "Electronics", "region": "North", "sales": 1810, "units": 40 },
+  { "date": "2025-09-18", "category": "Clothing", "region": "South", "sales": 860, "units": 47 },
+  { "date": "2025-09-18", "category": "Books", "region": "East", "sales": 475, "units": 27 },
+  { "date": "2025-09-18", "category": "Furniture", "region": "West", "sales": 1700, "units": 24 },
+
+  { "date": "2025-09-19", "category": "Electronics", "region": "North", "sales": 1830, "units": 42 },
+  { "date": "2025-09-19", "category": "Clothing", "region": "South", "sales": 890, "units": 49 },
+  { "date": "2025-09-19", "category": "Books", "region": "East", "sales": 465, "units": 25 },
+  { "date": "2025-09-19", "category": "Furniture", "region": "West", "sales": 1720, "units": 26 },
+
+  { "date": "2025-09-20", "category": "Electronics", "region": "North", "sales": 1900, "units": 44 },
+  { "date": "2025-09-20", "category": "Clothing", "region": "South", "sales": 920, "units": 52 },
+  { "date": "2025-09-20", "category": "Books", "region": "East", "sales": 480, "units": 28 },
+  { "date": "2025-09-20", "category": "Furniture", "region": "West", "sales": 1800, "units": 27 },
+
+  { "date": "2025-09-21", "category": "Electronics", "region": "North", "sales": 1880, "units": 43 },
+  { "date": "2025-09-21", "category": "Clothing", "region": "South", "sales": 910, "units": 50 },
+  { "date": "2025-09-21", "category": "Books", "region": "East", "sales": 460, "units": 26 },
+  { "date": "2025-09-21", "category": "Furniture", "region": "West", "sales": 1750, "units": 26 },
+
+  { "date": "2025-09-22", "category": "Electronics", "region": "North", "sales": 1810, "units": 41 },
+  { "date": "2025-09-22", "category": "Clothing", "region": "South", "sales": 880, "units": 48 },
+  { "date": "2025-09-22", "category": "Books", "region": "East", "sales": 445, "units": 25 },
+  { "date": "2025-09-22", "category": "Furniture", "region": "West", "sales": 1700, "units": 24 },
+
+  { "date": "2025-09-23", "category": "Electronics", "region": "North", "sales": 1860, "units": 42 },
+  { "date": "2025-09-23", "category": "Clothing", "region": "South", "sales": 900, "units": 51 },
+  { "date": "2025-09-23", "category": "Books", "region": "East", "sales": 470, "units": 26 },
+  { "date": "2025-09-23", "category": "Furniture", "region": "West", "sales": 1750, "units": 25 },
+
+  { "date": "2025-09-24", "category": "Electronics", "region": "North", "sales": 1890, "units": 44 },
+  { "date": "2025-09-24", "category": "Clothing", "region": "South", "sales": 920, "units": 52 },
+  { "date": "2025-09-24", "category": "Books", "region": "East", "sales": 480, "units": 27 },
+  { "date": "2025-09-24", "category": "Furniture", "region": "West", "sales": 1780, "units": 26 },
+
+  { "date": "2025-09-25", "category": "Electronics", "region": "North", "sales": 1920, "units": 45 },
+  { "date": "2025-09-25", "category": "Clothing", "region": "South", "sales": 940, "units": 53 },
+  { "date": "2025-09-25", "category": "Books", "region": "East", "sales": 500, "units": 29 },
+  { "date": "2025-09-25", "category": "Furniture", "region": "West", "sales": 1800, "units": 27 },
+
+  { "date": "2025-09-26", "category": "Electronics", "region": "North", "sales": 1880, "units": 43 },
+  { "date": "2025-09-26", "category": "Clothing", "region": "South", "sales": 900, "units": 50 },
+  { "date": "2025-09-26", "category": "Books", "region": "East", "sales": 470, "units": 27 },
+  { "date": "2025-09-26", "category": "Furniture", "region": "West", "sales": 1750, "units": 26 },
+
+  { "date": "2025-09-27", "category": "Electronics", "region": "North", "sales": 1840, "units": 42 },
+  { "date": "2025-09-27", "category": "Clothing", "region": "South", "sales": 890, "units": 49 },
+  { "date": "2025-09-27", "category": "Books", "region": "East", "sales": 460, "units": 25 },
+  { "date": "2025-09-27", "category": "Furniture", "region": "West", "sales": 1700, "units": 25 },
+
+  { "date": "2025-09-28", "category": "Electronics", "region": "North", "sales": 1820, "units": 41 },
+  { "date": "2025-09-28", "category": "Clothing", "region": "South", "sales": 870, "units": 47 },
+  { "date": "2025-09-28", "category": "Books", "region": "East", "sales": 445, "units": 24 },
+  { "date": "2025-09-28", "category": "Furniture", "region": "West", "sales": 1680, "units": 24 },
+
+  { "date": "2025-09-29", "category": "Electronics", "region": "North", "sales": 1850, "units": 42 },
+  { "date": "2025-09-29", "category": "Clothing", "region": "South", "sales": 900, "units": 50 },
+  { "date": "2025-09-29", "category": "Books", "region": "East", "sales": 460, "units": 25 },
+  { "date": "2025-09-29", "category": "Furniture", "region": "West", "sales": 1700, "units": 26 },
+
+  { "date": "2025-09-30", "category": "Electronics", "region": "North", "sales": 1900, "units": 44 },
+  { "date": "2025-09-30", "category": "Clothing", "region": "South", "sales": 940, "units": 53 },
+  { "date": "2025-09-30", "category": "Books", "region": "East", "sales": 495, "units": 27 },
+  { "date": "2025-09-30", "category": "Furniture", "region": "West", "sales": 1780, "units": 28 },
+
+  { "date": "2025-10-01", "category": "Electronics", "region": "North", "sales": 1720, "units": 38 },
+  { "date": "2025-10-01", "category": "Clothing", "region": "South", "sales": 840, "units": 46 },
+  { "date": "2025-10-01", "category": "Books", "region": "East", "sales": 460, "units": 24 },
+  { "date": "2025-10-01", "category": "Furniture", "region": "West", "sales": 1650, "units": 22 },
+
+  { "date": "2025-10-02", "category": "Electronics", "region": "North", "sales": 1750, "units": 39 },
+  { "date": "2025-10-02", "category": "Clothing", "region": "South", "sales": 860, "units": 48 },
+  { "date": "2025-10-02", "category": "Books", "region": "East", "sales": 470, "units": 25 },
+  { "date": "2025-10-02", "category": "Furniture", "region": "West", "sales": 1680, "units": 23 },
+
+  { "date": "2025-10-03", "category": "Electronics", "region": "North", "sales": 1780, "units": 40 },
+  { "date": "2025-10-03", "category": "Clothing", "region": "South", "sales": 880, "units": 50 },
+  { "date": "2025-10-03", "category": "Books", "region": "East", "sales": 480, "units": 26 },
+  { "date": "2025-10-03", "category": "Furniture", "region": "West", "sales": 1700, "units": 24 },
+
+  { "date": "2025-10-04", "category": "Electronics", "region": "North", "sales": 1800, "units": 41 },
+  { "date": "2025-10-04", "category": "Clothing", "region": "South", "sales": 895, "units": 52 },
+  { "date": "2025-10-04", "category": "Books", "region": "East", "sales": 490, "units": 27 },
+  { "date": "2025-10-04", "category": "Furniture", "region": "West", "sales": 1710, "units": 25 },
+
+  { "date": "2025-10-05", "category": "Electronics", "region": "North", "sales": 1820, "units": 42 },
+  { "date": "2025-10-05", "category": "Clothing", "region": "South", "sales": 910, "units": 53 },
+  { "date": "2025-10-05", "category": "Books", "region": "East", "sales": 500, "units": 28 },
+  { "date": "2025-10-05", "category": "Furniture", "region": "West", "sales": 1750, "units": 26 },
+
+  { "date": "2025-10-06", "category": "Electronics", "region": "North", "sales": 1850, "units": 43 },
+  { "date": "2025-10-06", "category": "Clothing", "region": "South", "sales": 920, "units": 55 },
+  { "date": "2025-10-06", "category": "Books", "region": "East", "sales": 510, "units": 29 },
+  { "date": "2025-10-06", "category": "Furniture", "region": "West", "sales": 1780, "units": 27 },
+
+  { "date": "2025-10-07", "category": "Electronics", "region": "North", "sales": 1830, "units": 42 },
+  { "date": "2025-10-07", "category": "Clothing", "region": "South", "sales": 900, "units": 52 },
+  { "date": "2025-10-07", "category": "Books", "region": "East", "sales": 480, "units": 26 },
+  { "date": "2025-10-07", "category": "Furniture", "region": "West", "sales": 1720, "units": 25 },
+
+  { "date": "2025-10-08", "category": "Electronics", "region": "North", "sales": 1860, "units": 44 },
+  { "date": "2025-10-08", "category": "Clothing", "region": "South", "sales": 930, "units": 54 },
+  { "date": "2025-10-08", "category": "Books", "region": "East", "sales": 495, "units": 27 },
+  { "date": "2025-10-08", "category": "Furniture", "region": "West", "sales": 1750, "units": 26 },
+
+  { "date": "2025-10-09", "category": "Electronics", "region": "North", "sales": 1890, "units": 45 },
+  { "date": "2025-10-09", "category": "Clothing", "region": "South", "sales": 950, "units": 56 },
+  { "date": "2025-10-09", "category": "Books", "region": "East", "sales": 520, "units": 29 },
+  { "date": "2025-10-09", "category": "Furniture", "region": "West", "sales": 1780, "units": 28 },
+
+  { "date": "2025-10-10", "category": "Electronics", "region": "North", "sales": 1900, "units": 46 },
+  { "date": "2025-10-10", "category": "Clothing", "region": "South", "sales": 960, "units": 57 },
+  { "date": "2025-10-10", "category": "Books", "region": "East", "sales": 525, "units": 30 },
+  { "date": "2025-10-10", "category": "Furniture", "region": "West", "sales": 1800, "units": 29 },
+
+  { "date": "2025-10-11", "category": "Electronics", "region": "North", "sales": 1880, "units": 45 },
+  { "date": "2025-10-11", "category": "Clothing", "region": "South", "sales": 940, "units": 55 },
+  { "date": "2025-10-11", "category": "Books", "region": "East", "sales": 500, "units": 28 },
+  { "date": "2025-10-11", "category": "Furniture", "region": "West", "sales": 1760, "units": 27 },
+
+  { "date": "2025-10-12", "category": "Electronics", "region": "North", "sales": 1850, "units": 43 },
+  { "date": "2025-10-12", "category": "Clothing", "region": "South", "sales": 920, "units": 53 },
+  { "date": "2025-10-12", "category": "Books", "region": "East", "sales": 490, "units": 27 },
+  { "date": "2025-10-12", "category": "Furniture", "region": "West", "sales": 1720, "units": 26 },
+
+  { "date": "2025-10-13", "category": "Electronics", "region": "North", "sales": 1870, "units": 44 },
+  { "date": "2025-10-13", "category": "Clothing", "region": "South", "sales": 930, "units": 54 },
+  { "date": "2025-10-13", "category": "Books", "region": "East", "sales": 500, "units": 28 },
+  { "date": "2025-10-13", "category": "Furniture", "region": "West", "sales": 1750, "units": 27 },
+
+  { "date": "2025-10-14", "category": "Electronics", "region": "North", "sales": 1890, "units": 45 },
+  { "date": "2025-10-14", "category": "Clothing", "region": "South", "sales": 945, "units": 55 },
+  { "date": "2025-10-14", "category": "Books", "region": "East", "sales": 510, "units": 28 },
+  { "date": "2025-10-14", "category": "Furniture", "region": "West", "sales": 1780, "units": 28 },
+
+  { "date": "2025-10-15", "category": "Electronics", "region": "North", "sales": 1920, "units": 47 },
+  { "date": "2025-10-15", "category": "Clothing", "region": "South", "sales": 960, "units": 56 },
+  { "date": "2025-10-15", "category": "Books", "region": "East", "sales": 530, "units": 30 },
+  { "date": "2025-10-15", "category": "Furniture", "region": "West", "sales": 1800, "units": 29 },
+
+  { "date": "2025-10-16", "category": "Electronics", "region": "North", "sales": 1880, "units": 45 },
+  { "date": "2025-10-16", "category": "Clothing", "region": "South", "sales": 935, "units": 54 },
+  { "date": "2025-10-16", "category": "Books", "region": "East", "sales": 505, "units": 28 },
+  { "date": "2025-10-16", "category": "Furniture", "region": "West", "sales": 1760, "units": 27 },
+
+  { "date": "2025-10-17", "category": "Electronics", "region": "North", "sales": 1850, "units": 44 },
+  { "date": "2025-10-17", "category": "Clothing", "region": "South", "sales": 920, "units": 53 },
+  { "date": "2025-10-17", "category": "Books", "region": "East", "sales": 495, "units": 27 },
+  { "date": "2025-10-17", "category": "Furniture", "region": "West", "sales": 1720, "units": 26 },
+
+  { "date": "2025-10-18", "category": "Electronics", "region": "North", "sales": 1830, "units": 42 },
+  { "date": "2025-10-18", "category": "Clothing", "region": "South", "sales": 900, "units": 52 },
+  { "date": "2025-10-18", "category": "Books", "region": "East", "sales": 480, "units": 26 },
+  { "date": "2025-10-18", "category": "Furniture", "region": "West", "sales": 1700, "units": 25 },
+
+  { "date": "2025-10-19", "category": "Electronics", "region": "North", "sales": 1860, "units": 44 },
+  { "date": "2025-10-19", "category": "Clothing", "region": "South", "sales": 935, "units": 54 },
+  { "date": "2025-10-19", "category": "Books", "region": "East", "sales": 500, "units": 27 },
+  { "date": "2025-10-19", "category": "Furniture", "region": "West", "sales": 1750, "units": 27 },
+
+  { "date": "2025-10-20", "category": "Electronics", "region": "North", "sales": 1900, "units": 45 },
+  { "date": "2025-10-20", "category": "Clothing", "region": "South", "sales": 950, "units": 55 },
+  { "date": "2025-10-20", "category": "Books", "region": "East", "sales": 520, "units": 29 },
+  { "date": "2025-10-20", "category": "Furniture", "region": "West", "sales": 1780, "units": 28 },
+
+  { "date": "2025-10-21", "category": "Electronics", "region": "North", "sales": 1920, "units": 47 },
+  { "date": "2025-10-21", "category": "Clothing", "region": "South", "sales": 960, "units": 57 },
+  { "date": "2025-10-21", "category": "Books", "region": "East", "sales": 530, "units": 30 },
+  { "date": "2025-10-21", "category": "Furniture", "region": "West", "sales": 1820, "units": 29 },
+
+  { "date": "2025-10-22", "category": "Electronics", "region": "North", "sales": 1890, "units": 46 },
+  { "date": "2025-10-22", "category": "Clothing", "region": "South", "sales": 940, "units": 55 },
+  { "date": "2025-10-22", "category": "Books", "region": "East", "sales": 510, "units": 29 },
+  { "date": "2025-10-22", "category": "Furniture", "region": "West", "sales": 1780, "units": 28 },
+
+  { "date": "2025-10-23", "category": "Electronics", "region": "North", "sales": 1850, "units": 44 },
+  { "date": "2025-10-23", "category": "Clothing", "region": "South", "sales": 920, "units": 53 },
+  { "date": "2025-10-23", "category": "Books", "region": "East", "sales": 495, "units": 27 },
+  { "date": "2025-10-23", "category": "Furniture", "region": "West", "sales": 1750, "units": 27 },
+
+  { "date": "2025-10-24", "category": "Electronics", "region": "North", "sales": 1830, "units": 43 },
+  { "date": "2025-10-24", "category": "Clothing", "region": "South", "sales": 905, "units": 52 },
+  { "date": "2025-10-24", "category": "Books", "region": "East", "sales": 480, "units": 26 },
+  { "date": "2025-10-24", "category": "Furniture", "region": "West", "sales": 1700, "units": 25 },
+
+  { "date": "2025-10-25", "category": "Electronics", "region": "North", "sales": 1860, "units": 44 },
+  { "date": "2025-10-25", "category": "Clothing", "region": "South", "sales": 930, "units": 54 },
+  { "date": "2025-10-25", "category": "Books", "region": "East", "sales": 500, "units": 27 },
+  { "date": "2025-10-25", "category": "Furniture", "region": "West", "sales": 1750, "units": 27 },
+
+  { "date": "2025-10-26", "category": "Electronics", "region": "North", "sales": 1880, "units": 45 },
+  { "date": "2025-10-26", "category": "Clothing", "region": "South", "sales": 955, "units": 56 },
+  { "date": "2025-10-26", "category": "Books", "region": "East", "sales": 505, "units": 28 },
+  { "date": "2025-10-26", "category": "Furniture", "region": "West", "sales": 1780, "units": 28 },
+
+  { "date": "2025-10-27", "category": "Electronics", "region": "North", "sales": 1900, "units": 46 },
+  { "date": "2025-10-27", "category": "Clothing", "region": "South", "sales": 960, "units": 57 },
+  { "date": "2025-10-27", "category": "Books", "region": "East", "sales": 520, "units": 29 },
+  { "date": "2025-10-27", "category": "Furniture", "region": "West", "sales": 1790, "units": 29 },
+
+  { "date": "2025-10-28", "category": "Electronics", "region": "North", "sales": 1870, "units": 45 },
+  { "date": "2025-10-28", "category": "Clothing", "region": "South", "sales": 940, "units": 55 },
+  { "date": "2025-10-28", "category": "Books", "region": "East", "sales": 500, "units": 27 },
+  { "date": "2025-10-28", "category": "Furniture", "region": "West", "sales": 1750, "units": 27 },
+
+  { "date": "2025-10-29", "category": "Electronics", "region": "North", "sales": 1840, "units": 44 },
+  { "date": "2025-10-29", "category": "Clothing", "region": "South", "sales": 930, "units": 54 },
+  { "date": "2025-10-29", "category": "Books", "region": "East", "sales": 490, "units": 27 },
+  { "date": "2025-10-29", "category": "Furniture", "region": "West", "sales": 1720, "units": 26 },
+
+  { "date": "2025-10-30", "category": "Electronics", "region": "North", "sales": 1860, "units": 45 },
+  { "date": "2025-10-30", "category": "Clothing", "region": "South", "sales": 945, "units": 55 },
+  { "date": "2025-10-30", "category": "Books", "region": "East", "sales": 510, "units": 28 },
+  { "date": "2025-10-30", "category": "Furniture", "region": "West", "sales": 1750, "units": 27 },
+
+  { "date": "2025-10-31", "category": "Electronics", "region": "North", "sales": 1900, "units": 47 },
+  { "date": "2025-10-31", "category": "Clothing", "region": "South", "sales": 960, "units": 56 },
+  { "date": "2025-10-31", "category": "Books", "region": "East", "sales": 530, "units": 30 },
+  { "date": "2025-10-31", "category": "Furniture", "region": "West", "sales": 1780, "units": 29 },
+
+  { "date": "2025-11-01", "category": "Electronics", "region": "North", "sales": 1850, "units": 44 },
+  { "date": "2025-11-01", "category": "Clothing", "region": "South", "sales": 930, "units": 54 },
+  { "date": "2025-11-01", "category": "Books", "region": "East", "sales": 510, "units": 28 },
+  { "date": "2025-11-01", "category": "Furniture", "region": "West", "sales": 1750, "units": 27 },
+
+  { "date": "2025-11-02", "category": "Electronics", "region": "North", "sales": 1880, "units": 45 },
+  { "date": "2025-11-02", "category": "Clothing", "region": "South", "sales": 950, "units": 56 },
+  { "date": "2025-11-02", "category": "Books", "region": "East", "sales": 520, "units": 29 },
+  { "date": "2025-11-02", "category": "Furniture", "region": "West", "sales": 1780, "units": 28 },
+
+  { "date": "2025-11-03", "category": "Electronics", "region": "North", "sales": 1900, "units": 46 },
+  { "date": "2025-11-03", "category": "Clothing", "region": "South", "sales": 960, "units": 57 },
+  { "date": "2025-11-03", "category": "Books", "region": "East", "sales": 525, "units": 30 },
+  { "date": "2025-11-03", "category": "Furniture", "region": "West", "sales": 1800, "units": 29 },
+
+  { "date": "2025-11-04", "category": "Electronics", "region": "North", "sales": 1920, "units": 48 },
+  { "date": "2025-11-04", "category": "Clothing", "region": "South", "sales": 980, "units": 58 },
+  { "date": "2025-11-04", "category": "Books", "region": "East", "sales": 540, "units": 30 },
+  { "date": "2025-11-04", "category": "Furniture", "region": "West", "sales": 1820, "units": 30 },
+
+  { "date": "2025-11-05", "category": "Electronics", "region": "North", "sales": 1880, "units": 46 },
+  { "date": "2025-11-05", "category": "Clothing", "region": "South", "sales": 950, "units": 55 },
+  { "date": "2025-11-05", "category": "Books", "region": "East", "sales": 510, "units": 29 },
+  { "date": "2025-11-05", "category": "Furniture", "region": "West", "sales": 1780, "units": 28 },
+
+  { "date": "2025-11-06", "category": "Electronics", "region": "North", "sales": 1860, "units": 45 },
+  { "date": "2025-11-06", "category": "Clothing", "region": "South", "sales": 940, "units": 56 },
+  { "date": "2025-11-06", "category": "Books", "region": "East", "sales": 500, "units": 28 },
+  { "date": "2025-11-06", "category": "Furniture", "region": "West", "sales": 1750, "units": 27 },
+
+  { "date": "2025-11-07", "category": "Electronics", "region": "North", "sales": 1840, "units": 44 },
+  { "date": "2025-11-07", "category": "Clothing", "region": "South", "sales": 930, "units": 55 },
+  { "date": "2025-11-07", "category": "Books", "region": "East", "sales": 490, "units": 27 },
+  { "date": "2025-11-07", "category": "Furniture", "region": "West", "sales": 1720, "units": 26 },
+
+  { "date": "2025-11-08", "category": "Electronics", "region": "North", "sales": 1860, "units": 46 },
+  { "date": "2025-11-08", "category": "Clothing", "region": "South", "sales": 945, "units": 56 },
+  { "date": "2025-11-08", "category": "Books", "region": "East", "sales": 505, "units": 28 },
+  { "date": "2025-11-08", "category": "Furniture", "region": "West", "sales": 1760, "units": 27 },
+
+  { "date": "2025-11-09", "category": "Electronics", "region": "North", "sales": 1890, "units": 47 },
+  { "date": "2025-11-09", "category": "Clothing", "region": "South", "sales": 970, "units": 57 },
+  { "date": "2025-11-09", "category": "Books", "region": "East", "sales": 515, "units": 29 },
+  { "date": "2025-11-09", "category": "Furniture", "region": "West", "sales": 1780, "units": 29 },
+
+  { "date": "2025-11-10", "category": "Electronics", "region": "North", "sales": 1920, "units": 48 },
+  { "date": "2025-11-10", "category": "Clothing", "region": "South", "sales": 985, "units": 59 },
+  { "date": "2025-11-10", "category": "Books", "region": "East", "sales": 540, "units": 30 },
+  { "date": "2025-11-10", "category": "Furniture", "region": "West", "sales": 1820, "units": 30 },
+
+  { "date": "2025-11-11", "category": "Electronics", "region": "North", "sales": 1880, "units": 47 },
+  { "date": "2025-11-11", "category": "Clothing", "region": "South", "sales": 955, "units": 56 },
+  { "date": "2025-11-11", "category": "Books", "region": "East", "sales": 520, "units": 29 },
+  { "date": "2025-11-11", "category": "Furniture", "region": "West", "sales": 1780, "units": 28 },
+
+  { "date": "2025-11-12", "category": "Electronics", "region": "North", "sales": 1840, "units": 45 },
+  { "date": "2025-11-12", "category": "Clothing", "region": "South", "sales": 930, "units": 55 },
+  { "date": "2025-11-12", "category": "Books", "region": "East", "sales": 500, "units": 28 },
+  { "date": "2025-11-12", "category": "Furniture", "region": "West", "sales": 1720, "units": 26 },
+
+  { "date": "2025-11-13", "category": "Electronics", "region": "North", "sales": 1860, "units": 46 },
+  { "date": "2025-11-13", "category": "Clothing", "region": "South", "sales": 950, "units": 56 },
+  { "date": "2025-11-13", "category": "Books", "region": "East", "sales": 510, "units": 29 },
+  { "date": "2025-11-13", "category": "Furniture", "region": "West", "sales": 1750, "units": 27 },
+
+  { "date": "2025-11-14", "category": "Electronics", "region": "North", "sales": 1880, "units": 47 },
+  { "date": "2025-11-14", "category": "Clothing", "region": "South", "sales": 960, "units": 57 },
+  { "date": "2025-11-14", "category": "Books", "region": "East", "sales": 520, "units": 29 },
+  { "date": "2025-11-14", "category": "Furniture", "region": "West", "sales": 1760, "units": 28 },
+
+  { "date": "2025-11-15", "category": "Electronics", "region": "North", "sales": 1920, "units": 48 },
+  { "date": "2025-11-15", "category": "Clothing", "region": "South", "sales": 980, "units": 59 },
+  { "date": "2025-11-15", "category": "Books", "region": "East", "sales": 545, "units": 30 },
+  { "date": "2025-11-15", "category": "Furniture", "region": "West", "sales": 1820, "units": 30 },
+
+  { "date": "2025-11-16", "category": "Electronics", "region": "North", "sales": 1900, "units": 47 },
+  { "date": "2025-11-16", "category": "Clothing", "region": "South", "sales": 960, "units": 57 },
+  { "date": "2025-11-16", "category": "Books", "region": "East", "sales": 530, "units": 29 },
+  { "date": "2025-11-16", "category": "Furniture", "region": "West", "sales": 1780, "units": 28 },
+
+  { "date": "2025-11-17", "category": "Electronics", "region": "North", "sales": 1880, "units": 46 },
+  { "date": "2025-11-17", "category": "Clothing", "region": "South", "sales": 950, "units": 56 },
+  { "date": "2025-11-17", "category": "Books", "region": "East", "sales": 515, "units": 28 },
+  { "date": "2025-11-17", "category": "Furniture", "region": "West", "sales": 1760, "units": 28 },
+
+  { "date": "2025-11-18", "category": "Electronics", "region": "North", "sales": 1860, "units": 45 },
+  { "date": "2025-11-18", "category": "Clothing", "region": "South", "sales": 930, "units": 55 },
+  { "date": "2025-11-18", "category": "Books", "region": "East", "sales": 505, "units": 28 },
+  { "date": "2025-11-18", "category": "Furniture", "region": "West", "sales": 1750, "units": 27 },
+
+  { "date": "2025-11-19", "category": "Electronics", "region": "North", "sales": 1900, "units": 47 },
+  { "date": "2025-11-19", "category": "Clothing", "region": "South", "sales": 960, "units": 56 },
+  { "date": "2025-11-19", "category": "Books", "region": "East", "sales": 520, "units": 29 },
+  { "date": "2025-11-19", "category": "Furniture", "region": "West", "sales": 1780, "units": 28 },
+
+  { "date": "2025-11-20", "category": "Electronics", "region": "North", "sales": 1920, "units": 48 },
+  { "date": "2025-11-20", "category": "Clothing", "region": "South", "sales": 975, "units": 57 },
+  { "date": "2025-11-20", "category": "Books", "region": "East", "sales": 530, "units": 29 },
+  { "date": "2025-11-20", "category": "Furniture", "region": "West", "sales": 1820, "units": 29 },
+
+  { "date": "2025-11-21", "category": "Electronics", "region": "North", "sales": 1890, "units": 47 },
+  { "date": "2025-11-21", "category": "Clothing", "region": "South", "sales": 960, "units": 56 },
+  { "date": "2025-11-21", "category": "Books", "region": "East", "sales": 520, "units": 29 },
+  { "date": "2025-11-21", "category": "Furniture", "region": "West", "sales": 1780, "units": 28 },
+
+  { "date": "2025-11-22", "category": "Electronics", "region": "North", "sales": 1860, "units": 45 },
+  { "date": "2025-11-22", "category": "Clothing", "region": "South", "sales": 940, "units": 55 },
+  { "date": "2025-11-22", "category": "Books", "region": "East", "sales": 505, "units": 28 },
+  { "date": "2025-11-22", "category": "Furniture", "region": "West", "sales": 1750, "units": 27 },
+
+  { "date": "2025-11-23", "category": "Electronics", "region": "North", "sales": 1880, "units": 46 },
+  { "date": "2025-11-23", "category": "Clothing", "region": "South", "sales": 950, "units": 56 },
+  { "date": "2025-11-23", "category": "Books", "region": "East", "sales": 510, "units": 29 },
+  { "date": "2025-11-23", "category": "Furniture", "region": "West", "sales": 1750, "units": 27 },
+
+  { "date": "2025-11-24", "category": "Electronics", "region": "North", "sales": 1900, "units": 47 },
+  { "date": "2025-11-24", "category": "Clothing", "region": "South", "sales": 965, "units": 57 },
+  { "date": "2025-11-24", "category": "Books", "region": "East", "sales": 520, "units": 29 },
+  { "date": "2025-11-24", "category": "Furniture", "region": "West", "sales": 1780, "units": 28 },
+
+  { "date": "2025-11-25", "category": "Electronics", "region": "North", "sales": 1920, "units": 48 },
+  { "date": "2025-11-25", "category": "Clothing", "region": "South", "sales": 975, "units": 58 },
+  { "date": "2025-11-25", "category": "Books", "region": "East", "sales": 540, "units": 30 },
+  { "date": "2025-11-25", "category": "Furniture", "region": "West", "sales": 1820, "units": 30 },
+
+  { "date": "2025-11-26", "category": "Electronics", "region": "North", "sales": 1900, "units": 47 },
+  { "date": "2025-11-26", "category": "Clothing", "region": "South", "sales": 960, "units": 56 },
+  { "date": "2025-11-26", "category": "Books", "region": "East", "sales": 525, "units": 29 },
+  { "date": "2025-11-26", "category": "Furniture", "region": "West", "sales": 1780, "units": 28 },
+
+  { "date": "2025-11-27", "category": "Electronics", "region": "North", "sales": 1880, "units": 46 },
+  { "date": "2025-11-27", "category": "Clothing", "region": "South", "sales": 950, "units": 55 },
+  { "date": "2025-11-27", "category": "Books", "region": "East", "sales": 515, "units": 29 },
+  { "date": "2025-11-27", "category": "Furniture", "region": "West", "sales": 1750, "units": 27 }
+]

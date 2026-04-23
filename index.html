@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Interactive Data Visualizer</title>
+  <link rel="stylesheet" href="style.css" />
+
+  <!-- Chart.js CDN (you can also use local file in /libs) -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+  <header>
+    <h1>Interactive Data Visualization Dashboard</h1>
+  </header>
+
+  <main class="dashboard">
+    <section class="controls">
+      <h2>Filters</h2>
+
+      <label>
+        Chart Type:
+        <select id="chartType">
+          <option value="bar">Bar</option>
+          <option value="line">Line</option>
+          <option value="pie">Pie</option>
+          <option value="scatter">Scatter</option>
+        </select>
+      </label>
+
+      <label>
+        Category:
+        <select id="categoryFilter">
+          <option value="all">All</option>
+          <!-- dynamically filled by JS -->
+        </select>
+      </label>
+
+      <label>
+        From Date:
+        <input type="date" id="fromDate" />
+      </label>
+
+      <label>
+        To Date:
+        <input type="date" id="toDate" />
+      </label>
+
+      <button id="applyFiltersBtn">Apply Filters</button>
+      <button id="resetFiltersBtn">Reset</button>
+
+      <hr />
+
+      <button id="exportChartBtn">Export Chart as PNG</button>
+    </section>
+
+    <section class="chart-container">
+      <canvas id="mainChart"></canvas>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
