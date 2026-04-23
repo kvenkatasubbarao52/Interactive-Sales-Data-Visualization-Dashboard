@@ -4,7 +4,7 @@ let chartInstance = null;
 
 // Fetch JSON data on load
 document.addEventListener("DOMContentLoaded", () => {
-  fetch("data/sales_data.json")
+  fetch("sales_data.json")
     .then((response) => response.json())
     .then((data) => {
       rawData = data;
