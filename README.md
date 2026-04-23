@@ -1,92 +1,43 @@
-# 📊 Interactive Sales Data Visualization Dashboard
+# Interactive Sales Data Visualization Dashboard
 
-An interactive web-based dashboard to visualize sales data using multiple chart types, dynamic filters, and export functionality. Built with HTML, CSS, JavaScript, and Chart.js.
-
----
-
-## 🚀 Features
-
-* 📊 Multiple chart types:
-
-  * Bar Chart (Sales by Category)
-  * Line Chart (Sales over Time)
-  * Pie Chart (Sales by Region)
-  * Scatter Plot (Units vs Sales)
-
-* 🎯 Dynamic Filtering:
-
-  * Filter by Category
-  * Filter by Date Range
-
-* 📤 Export Functionality:
-
-  * Download charts as PNG images
-
-* ⚡ Real-time Updates:
-
-  * Charts update instantly based on selected filters
+A web-based dashboard application that visualizes sales data using interactive charts and dynamic filters. It allows users to explore data insights and export visualizations بسهولة.
 
 ---
 
-## 🛠️ Tech Stack
+## Features
 
-* HTML5
-* CSS3
-* JavaScript (ES6)
+* Multiple chart types (Bar, Line, Pie, Scatter)
+* Filter data by category
+* Filter data by date range
+* Real-time chart updates
+* Export charts as PNG images
+
+---
+
+## Technologies Used
+
+* HTML
+* CSS
+* JavaScript
 * Chart.js
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
-```
-├── index.html
-├── style.css
-├── app.js
-├── sales_data.json   (or /data/sales_data.json)
-```
+### Core Files
+
+* index.html
+* style.css
+* app.js
+* sales_data.json 
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
-1. Clone the repository:
-
-   ```
-   git clone https://github.com/your-username/Interactive-Sales-Data-Visualization-Dashboard.git
-   ```
+1. Clone the repository
 2. Open the project folder
-3. Open `index.html` in your browser
+3. Ensure all files are in the correct structure
+4. Open `index.html` in your browser
 
----
-
-## 🌐 Live Demo
-
-(Add your GitHub Pages link here after deployment)
-
----
-
-## 📸 Screenshots
-
-(Add screenshots of your dashboard here for better presentation)
-
----
-
-## 📌 Use Cases
-
-* Data visualization projects
-* Business analytics dashboards
-* Academic mini-projects
-* Portfolio showcase
-
----
-
-## 👨‍💻 Author
-
-**Venkata Subba Rao**
-
----
-
-## ⭐ Support
-
-If you like this project, give it a ⭐ on GitHub!
