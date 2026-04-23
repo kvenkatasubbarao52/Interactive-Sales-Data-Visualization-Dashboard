@@ -1,6 +1,6 @@
 # Interactive Sales Data Visualization Dashboard
 
-A web-based dashboard application that visualizes sales data using interactive charts and dynamic filters. It allows users to explore data insights and export visualizations بسهولة.
+A web-based dashboard application that visualizes sales data using interactive charts and dynamic filters. It allows users to explore data insights and export visualizations easily.
 
 ---
 
